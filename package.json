@@ -1,0 +1,24 @@
+{
+  "name": "restaurant-rating-trend-predicting-platform",
+  "version": "1.0.0",
+  "description": "Trend Predicting Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Helenl1987/Restaurant-rating-trend-predicting-platform.git"
+  },
+  "author": "JZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Helenl1987/Restaurant-rating-trend-predicting-platform/issues"
+  },
+  "homepage": "https://github.com/Helenl1987/Restaurant-rating-trend-predicting-platform#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
