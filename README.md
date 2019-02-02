@@ -6,5 +6,5 @@
 2. Las Vegas BOW关键词存入MongoDB
 3. Las Vegas Aspect Sentiment关键词存入MongoDB
 4. 餐厅名称/城市名搜索
-5. :restaurantID routing.get
+5. :restaurantID routing.get： 挑选review，并突出关键词
 6. 登陆系统
